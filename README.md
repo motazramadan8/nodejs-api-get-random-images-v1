@@ -1,5 +1,5 @@
 # Get Random Image
-https://get-random-image.onrender.com/api/v1/images/random-nature
+API: https://get-random-image.onrender.com/api/v1/images/random-nature
 ## Why I Made This API
 
 I made this API to get "Random Nature Images" & I will improve this app for other types of images
