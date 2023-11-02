@@ -35,7 +35,7 @@ mkdir .env
 And see ".env.example" data and copy it to your ".env" file with your data
 
 ```
-npm run start:dev
+npm run start dev
 ```
 
 ## Built With
